@@ -6,4 +6,17 @@
 >>>>>>> 40330c9d59d1e3f61c7fac6b8dff9266a9ebe598"
 
 
-body{}
+body {
+    color:  white
+}
+
+
+    ul{
+       display: flex;
+       justify-content: space-between;
+       align-style-type: nome;
+       align-items: center;
+
+
+
+    }
